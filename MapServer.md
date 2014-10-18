@@ -1,3 +1,6 @@
+MapServer
+=============
+
 HP: http://mapserver.org
 
 Documentation: http://mapserver.org/documentation.html

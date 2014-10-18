@@ -15,6 +15,14 @@ http://geoext.org
 
 Version 2: http://geoext.github.io/geoext2
 
+GeoNetwork OS
+------------
+http://geonetwork-opensource.org
+
+GeoWebCache
+------------
+http://geowebcache.org/
+
 MaProxy
 ------------
 http://mapproxy.org
